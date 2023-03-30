@@ -1,9 +1,10 @@
 import './App.css';
+import FeedItem from './components/FeedItem';
 
 function App() {
   return (
     <div className="App">
-      Hola Mundo
+      <FeedItem />
     </div>
   );
 }
