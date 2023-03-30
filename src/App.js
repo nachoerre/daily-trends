@@ -1,10 +1,10 @@
 import './App.css';
-import FeedItem from './components/FeedItem';
+import FeedList from './components/FeedList';
 
 function App() {
   return (
     <div className="App">
-      <FeedItem />
+      <FeedList />
     </div>
   );
 }

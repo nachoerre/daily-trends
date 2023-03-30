@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "el-mundo", "name": "El Mundo" },
+      "author": null,
+      "title": "La RFEF abre expediente al FC Barcelona por el caso Enríquez Negreira",
+      "description": "El Departamento de Integridad de la Real Federación Española de Fútbol (RFEF) ha iniciado &quot;un requerimiento de información reservada tanto a los responsables del Comité...",
+      "url": "https://www.elmundo.es/deportes/futbol/2023/02/16/63ee302ee4d4d81a468b45b8.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/b26e4cc0ab5b2aa1f599f0b22c649b4c/resize/1200/f/jpg/assets/multimedia/imagenes/2023/02/16/16765542112650.jpg",
+      "publishedAt": "2023-02-16T13:31:39Z",
+      "content": "El Departamento de Integridad de la Real Federación Española de Fútbol (RFEF) ha iniciado \"un requerimiento de información reservada tanto a los responsables del Comité Técnico de Árbitros (CTA) como… [+1627 chars]"
+    },
+    {
+      "source": { "id": "el-mundo", "name": "El Mundo" },
+      "author": null,
+      "title": "Irene Montero logra aprobar la Ley Trans en el Congreso y el PP avisa de \"un nuevo 'sí es sí'\"",
+      "description": "El Congreso ha aprobado definitivamente la Ley Trans. Esto significa que España reconocerá a partir de ahora la llamada autodeterminación de género, es decir, la posibilidad de...",
+      "url": "https://www.elmundo.es/espana/2023/02/16/63ee1dabe4d4d872438b45a9.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/c6c8ed68884f6ca5d5cc8cb63d094a54/crop/0x0/3072x2048/resize/1200/f/jpg/assets/multimedia/imagenes/2023/02/16/16765495998501.jpg",
+      "publishedAt": "2023-02-16T12:57:48Z",
+      "content": "El Congreso ha aprobado definitivamente la Ley Trans. Esto significa que España reconocerá a partir de ahora la llamada autodeterminación de género, es decir, la posibilidad de que una persona por sí… [+2241 chars]"
+    },
+    {
+      "source": { "id": "el-mundo", "name": "El Mundo" },
+      "author": null,
+      "title": "El Congreso aprueba la nueva ley del aborto con la izquierda y Vox atacando el giro de Feijóo",
+      "description": "El Congreso ha aprobado de manera definitiva la reforma de la ley del aborto de 2010 que, entre sus principales medidas, recupera que las mujeres de 16 y 17 años puedan...",
+      "url": "https://www.elmundo.es/espana/2023/02/16/63edf73821efa068388b45dd.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/53396363789b1c281c4a366162ff4f45/crop/0x0/3070x2047/resize/1200/f/jpg/assets/multimedia/imagenes/2023/02/16/16765396812035.jpg",
+      "publishedAt": "2023-02-16T12:50:49Z",
+      "content": "El Congreso ha aprobado de manera definitiva la reforma de la ley del aborto de 2010 que, entre sus principales medidas, recupera que las mujeres de 16 y 17 años puedan interrumpir el embarazo sin el… [+10913 chars]"
+    },
+    {
+      "source": { "id": "el-mundo", "name": "El Mundo" },
+      "author": null,
+      "title": "Sánchez desecha las presiones de Podemos y les reta a hacer públicas sus propuestas para reformar de la ley del 'sólo sí es sí'",
+      "description": "El Gobierno atraviesa su crisis más grave a raíz de la reforma de la ley del sólo sí es sí, con un choque tenso entre el PSOE y Podemos respecto a la subida de penas, decidida...",
+      "url": "https://www.elmundo.es/espana/2023/02/16/63ee1b6621efa0ba068b45d3.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/0d0150bb7eb2e9a94fea291be4db5088/crop/0x0/3041x2027/resize/1200/f/jpg/assets/multimedia/imagenes/2023/02/16/16765489358549.jpg",
+      "publishedAt": "2023-02-16T12:23:27Z",
+      "content": "El Gobierno atraviesa su crisis más grave a raíz de la reforma de la ley del sólo sí es sí, con un choque tenso entre el PSOE y Podemos respecto a la subida de penas, decidida por La Moncloa, obligad… [+5921 chars]"
+    },
+    {
+      "source": { "id": "el-mundo", "name": "El Mundo" },
+      "author": null,
+      "title": "El descenso de categoría planea sobre el Barça",
+      "description": "¿A qué consecuencias podría enfrentarse el Barça por el escándalo de los pagos a la empresa de Enríquez Negreira? El descenso de categoría, de acuerdo con el Real Decreto...",
+      "url": "https://www.elmundo.es/deportes/futbol/2023/02/16/63ee1a75fc6c83c1778b4578.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/56c0a1fe8cee8f07a64c63c63341f475/resize/1200/f/jpg/assets/multimedia/imagenes/2023/02/16/16765486636916.jpg",
+      "publishedAt": "2023-02-16T11:58:54Z",
+      "content": "¿A qué consecuencias podría enfrentarse el Barça por el escándalo de los pagos a la empresa de Enríquez Negreira? El descenso de categoría, de acuerdo con el Real Decreto sobre Disciplina Deportiva (… [+2833 chars]"
+    }
+  ]
+}

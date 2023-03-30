@@ -1,0 +1,29 @@
+.feed-item {
+  width: 80%;
+  padding: 16px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.feed-item h2 {
+  margin-top: 0;
+}
+
+.feed-item .body {
+  margin-bottom: 8px;
+}
+
+.feed-item img {
+  max-width: 100%;
+  margin-bottom: 8px;
+}
+
+.feed-item .source {
+  color: #007aff;
+  text-decoration: none;
+}
+
+.feed-item .publisher:hover {
+  text-decoration: underline;
+}
