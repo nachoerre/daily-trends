@@ -3,8 +3,8 @@
   "totalResults": 10,
   "articles": [
     {
-      "source": { "id": "el-mundo", "name": "El Mundo" },
-      "author": null,
+      "source": "El Mundo",
+      "author": "Jose Perez",
       "title": "La RFEF abre expediente al FC Barcelona por el caso Enríquez Negreira",
       "description": "El Departamento de Integridad de la Real Federación Española de Fútbol (RFEF) ha iniciado &quot;un requerimiento de información reservada tanto a los responsables del Comité...",
       "url": "https://www.elmundo.es/deportes/futbol/2023/02/16/63ee302ee4d4d81a468b45b8.html",
@@ -13,8 +13,8 @@
       "content": "El Departamento de Integridad de la Real Federación Española de Fútbol (RFEF) ha iniciado \"un requerimiento de información reservada tanto a los responsables del Comité Técnico de Árbitros (CTA) como… [+1627 chars]"
     },
     {
-      "source": { "id": "el-mundo", "name": "El Mundo" },
-      "author": null,
+      "source": "El Mundo",
+      "author": "Jose Perez",
       "title": "Irene Montero logra aprobar la Ley Trans en el Congreso y el PP avisa de \"un nuevo 'sí es sí'\"",
       "description": "El Congreso ha aprobado definitivamente la Ley Trans. Esto significa que España reconocerá a partir de ahora la llamada autodeterminación de género, es decir, la posibilidad de...",
       "url": "https://www.elmundo.es/espana/2023/02/16/63ee1dabe4d4d872438b45a9.html",
@@ -23,8 +23,8 @@
       "content": "El Congreso ha aprobado definitivamente la Ley Trans. Esto significa que España reconocerá a partir de ahora la llamada autodeterminación de género, es decir, la posibilidad de que una persona por sí… [+2241 chars]"
     },
     {
-      "source": { "id": "el-mundo", "name": "El Mundo" },
-      "author": null,
+      "source": "El Mundo",
+      "author": "Jose Perez",
       "title": "El Congreso aprueba la nueva ley del aborto con la izquierda y Vox atacando el giro de Feijóo",
       "description": "El Congreso ha aprobado de manera definitiva la reforma de la ley del aborto de 2010 que, entre sus principales medidas, recupera que las mujeres de 16 y 17 años puedan...",
       "url": "https://www.elmundo.es/espana/2023/02/16/63edf73821efa068388b45dd.html",
@@ -33,8 +33,8 @@
       "content": "El Congreso ha aprobado de manera definitiva la reforma de la ley del aborto de 2010 que, entre sus principales medidas, recupera que las mujeres de 16 y 17 años puedan interrumpir el embarazo sin el… [+10913 chars]"
     },
     {
-      "source": { "id": "el-mundo", "name": "El Mundo" },
-      "author": null,
+      "source": "El Mundo",
+      "author": "Jose Perez",
       "title": "Sánchez desecha las presiones de Podemos y les reta a hacer públicas sus propuestas para reformar de la ley del 'sólo sí es sí'",
       "description": "El Gobierno atraviesa su crisis más grave a raíz de la reforma de la ley del sólo sí es sí, con un choque tenso entre el PSOE y Podemos respecto a la subida de penas, decidida...",
       "url": "https://www.elmundo.es/espana/2023/02/16/63ee1b6621efa0ba068b45d3.html",
@@ -43,8 +43,8 @@
       "content": "El Gobierno atraviesa su crisis más grave a raíz de la reforma de la ley del sólo sí es sí, con un choque tenso entre el PSOE y Podemos respecto a la subida de penas, decidida por La Moncloa, obligad… [+5921 chars]"
     },
     {
-      "source": { "id": "el-mundo", "name": "El Mundo" },
-      "author": null,
+      "source": "El Mundo",
+      "author": "Jose Perez",
       "title": "El descenso de categoría planea sobre el Barça",
       "description": "¿A qué consecuencias podría enfrentarse el Barça por el escándalo de los pagos a la empresa de Enríquez Negreira? El descenso de categoría, de acuerdo con el Real Decreto...",
       "url": "https://www.elmundo.es/deportes/futbol/2023/02/16/63ee1a75fc6c83c1778b4578.html",
