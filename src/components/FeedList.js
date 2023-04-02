@@ -7,8 +7,14 @@ import FeedDetail from "./FeedDetail";
 import "./FeedList.css";
 
 function FeedList() {
-  const [newsFetched, setNewsFetched] = useState([]);
+  const [newsFeed, setNewsFeed] = useState([]);
   const [modalIsOpen, setModalIsOpen] = useState(false);
+
+  const createNews = (newFeed) => {
+    const updatedFeed = [...newsFeed];
+    updatedFeed.push(newFeed);
+    setNewsFeed(updatedFeed);
+  };
 
   useEffect(() => {
     const getNews = async () => {
@@ -18,7 +24,7 @@ function FeedList() {
           throw new Error(`Failed tryinig to get the news: ${response.status}`);
         }
         const data = await response.json();
-        setNewsFetched(data.articles);
+        setNewsFeed(data.articles);
       } catch (error) {
         console.error(error);
       }
@@ -26,17 +32,25 @@ function FeedList() {
     getNews();
   }, []);
 
-  const createNews = (newFeed) => {
-    newsFetched.push(newFeed);
-  };
-
   return (
     <div className="feed-list">
-      <div style={{ position: "sticky", top: "-1px", padding: "10px" ,margin: "15px", background: "black", width: "100%" }}>
+      <div
+        style={{
+          position: "sticky",
+          top: "0px",
+          padding: "10px",
+          background: "black",
+          opacity: "0.85",
+          width: "100%",
+        }}
+      >
         <Button onClick={() => setModalIsOpen(true)}>Create</Button>
       </div>
-      {newsFetched.map((feed) => (
-        <FeedItem feed={feed} key={feed.title} />
+      {newsFeed.map((feed, index) => (
+        <FeedItem
+          feed={feed}
+          key={feed.title}
+        />
       ))}
       <Modal className="feed-detail-modal" isOpen={modalIsOpen}>
         <FeedDetail

@@ -24,8 +24,15 @@ function FeedDetail({ type, feed, handleCloseModal, editNews }) {
 
   const handleSubmit = (event) => {
     event.preventDefault();
-    editNews(state);
-    handleCloseModal();
+    try {
+      new URL(state.urlToImage);
+      editNews(state);
+      handleCloseModal();
+      return;
+    } catch (error) {
+      alert("La imagen debe ser una URL válida");
+      return state;
+    }
   };
 
   const handleOnChange = (event) => {
@@ -49,7 +56,7 @@ function FeedDetail({ type, feed, handleCloseModal, editNews }) {
         <br />
         <label htmlFor="body">
           Body:
-          <input
+          <textarea
             type="text"
             id="content"
             name="content"
